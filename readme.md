@@ -1,5 +1,5 @@
-![MasterPiece Banner](https://github.com/jay-2000/jay-2000/blob/main/linkedinBanner.png)
-<h1 align="center">Hi <img width="35px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Athang Patil</h1>
+![MasterPiece Banner](https://github.com/Athang123/Athang123/blob/main/Banner.png)
+<h1 align="center">Hola <img width="35px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Athang Patil</h1>
 <h3 align="center">OpenSource - Web Dev </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Athang123&label=Profile%20views&color=0e75b6&style=flat" alt="Athang123" /> </p>
