@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **web**
 
-- 📫 Contact me on **[E-mail](mailto:athangp2002@gmail.com)**  ,  **[My Website](https://jayparmar.netlify.app/)**
+- 📫 Contact me on **[E-mail](mailto:athangp2002@gmail.com)**  ,  **[My Website](https://athang123.github.io/portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
