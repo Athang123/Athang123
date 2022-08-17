@@ -12,13 +12,13 @@
   
 - 🔭 
 
-- 🌱 I’m currently learning **Docker and interested in DevOps stuff, JS and its libraries and frameworks**
+- 🌱 I’m currently learning **Docker and interested in React, JS and its libraries and frameworks**
 
 - 👯 I’m looking to collaborate on **JS Beginners and intermediate projects** and also commited to **100 Days of Code**
 
 - 🤝 I’m looking for help with **Advance frontend Web stack**
 
-- 💬 Ask me about **web**
+- 💬 Ask me about **web Dev**
 
 - 📫 Contact me on **[E-mail](mailto:athangp2002@gmail.com)**  ,  **[My Website](https://athang123.github.io/portfolio/)**
 
